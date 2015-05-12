@@ -1,2 +1,2 @@
 # datasciencecoursera
-Demonstrating the ability to create a GitHub repository
+Michele Fisher demonstrating the ability to create a GitHub repository.
